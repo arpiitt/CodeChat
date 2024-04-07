@@ -1,5 +1,5 @@
 # CodeChat
-CodeChat: Connect, collaborate, and conquer coding challenges with ease. Real-time chat and bug-solving for developers."
+CodeChat: Connect, collaborate, and conquer coding challenges with ease. Real-time chat and bug-solving for developers.
  
 
 ## Features
